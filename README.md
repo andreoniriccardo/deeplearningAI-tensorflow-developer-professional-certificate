@@ -27,7 +27,7 @@ This GitHub repository contains all the coding material that I wrote and studied
 - **Handling Complex Images**: use more complex images to build a convolutional neural network
 
 ---
-# 02 - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/1)
+## 02 - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/1)
 
 ### How did this course enhance my Data Science skills?
 - I can go through all the steps required to build an efficient convolutional neural network for image classification in TensorFlow
@@ -55,15 +55,15 @@ This GitHub repository contains all the coding material that I wrote and studied
 - **Classification Beyond two classes**: using the [Sign Languade dataset](https://www.kaggle.com/datamunge/sign-language-mnist) from Kaggle build a multiclass classifier neural network.
 
 ---
-# 03 - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice)
+## 03 - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice)
 
-## How did this course enhance my Data Science skills?
+### How did this course enhance my Data Science skills?
 - I learned how to retrieve and to prepare a dataset for Natural Language Processing applications, which includes tokenizing, padding and embedding, besides removing common stopwords.
 - I know how to define and train a model for NLP in TensorFlow.
 - I know how to build NLP models for tasks like sentiment analysis, categorization of news articles, and auto-completing sentences.
 
 
-## What does this course deal?
+### What does this course deal?
 - Word based **encoding**
 - **Text to sequence**
 - **Tokenizer**
@@ -77,7 +77,7 @@ This GitHub repository contains all the coding material that I wrote and studied
 - **Auto-completing** the sentences
 
 
-## Coding assignments
+### Coding assignments
 - **BBC news archive - 01**: retrieving the BBC text archive, tokenizing the dataset and removing common stopwords
 - **BBC news archive - 02**: building a neural network to determine the category of the articles contained in the BBC news archive.
 - **Exploring Overfitting in NLP**: training a NLP model on large datasets and implementing transfer learning.
